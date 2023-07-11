@@ -1,0 +1,40 @@
+@charset "utf-8";
+* {
+  margin: 0 auto;
+  padding: 0;
+  box-sizing: border-box;
+}
+.wrap {
+  width: 1200px;
+}
+header {
+  width: 1200px;
+  height: 100px;
+  background-color: rgb(55, 136, 211);
+}
+.logo {
+  width: 300px;
+  height: 100px;
+  float: left;
+  color: #fff;
+  font-size: 20px;
+  text-align: center;
+  line-height: 100px;
+}
+.menu ul {
+  list-style: none;
+  width: 900px;
+  height: 100px;
+  display: flex;
+  /* background-color: aquamarine; */
+  color: #fff;
+  font-size: 16px;
+  font-weight: bold;
+  line-height: 130px;
+}
+.slider {
+  width: 1200px;
+}
+main2 .info {
+  width: 600px;
+}
